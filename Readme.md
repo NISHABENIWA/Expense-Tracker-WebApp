@@ -2,22 +2,7 @@
 
 Our easy-to-use budgeting calculator will help users to understand their expenses and manage their money. The budget process depends on an accurate calculation of expenses and revenues (Total Expenses = Net Revenue - Net Income) so that the user can calculate their total expenses. Utilizing our free expense calculator will take control of your spending!
 
-Visit the website here: [Tracker Expense Calculator](https://yellow-dune-0d56eaa00.1.azurestaticapps.net/index.html)
-</br>
-
-<p align="center">
-  
-  ![image](https://user-images.githubusercontent.com/90326051/174435716-ba688f64-2409-49d4-8eea-332e0184bc7a.png)
-
-  ![image](https://user-images.githubusercontent.com/90326051/174435559-78ebda78-233c-4ee9-b92d-80cbaa0574f4.png)
-
-  ![image](https://user-images.githubusercontent.com/90326051/174435761-98f28a0d-2b97-4c03-a325-b8d33a3c6b3b.png)
-
-<!--   ![image](https://user-images.githubusercontent.com/90326051/174435598-cb2ffc55-8bc1-4293-bc42-c02b73136f45.png) -->
-
-  ![image](https://user-images.githubusercontent.com/90326051/174435616-4fc034e7-8327-476c-b10b-c2f524da358d.png)
-
-</p>  
+ 
 
 ## Working:
 After entering to our website, user will be able to either use the calculator in the guest mode or by signing in to their account. 
